@@ -1,1 +1,1 @@
-# homeless_detection
+# Project for University of Michigan Research
